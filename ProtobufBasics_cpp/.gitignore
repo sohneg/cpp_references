@@ -1,0 +1,6 @@
+# Ignore build folder
+/build/
+
+# Ignore all .cc- and .h in proto
+/proto/*.cc
+/proto/*.h
